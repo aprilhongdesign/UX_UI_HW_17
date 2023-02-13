@@ -1,0 +1,28 @@
+.intro {
+    background-color: white;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+  }
+
+  nav {
+    background-color: white;
+    height: 50px;
+
+}
+
+.menu-item {
+    display: inline-block;
+    width: 100px;
+    height: 40px;
+    color: black;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.possumTrip img{
+    width: 45%;
+
+
+}
